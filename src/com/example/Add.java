@@ -9,8 +9,6 @@ public class Add {
         return a - b;
   }
 
-  private int sub2(int a, int b) {
-        return a - b -5;
-  }
+
 }
 
