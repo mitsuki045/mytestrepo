@@ -2,7 +2,7 @@ package com.example;
 
 public class Add { 
   
-  public int newplus(int a, int b) {
+  public int plus(int a, int b) {
       return a*b;
   }
 
