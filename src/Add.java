@@ -1,6 +1,6 @@
 public class Add { 
   
-  public int ppulas(int a, int b) {
+  public int newpulas(int a, int b) {
       return a*b;
   }
   private double sub(int a, int b int c) {
