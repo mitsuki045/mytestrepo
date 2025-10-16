@@ -3,7 +3,7 @@ public class Add {
   public int newpulas(int a, int b) {
       return a*b;
   }
-  private double sub(int a, int b int c) {
+  private double sub(int a, int b,int c) {
         return a - b;
   }
 
