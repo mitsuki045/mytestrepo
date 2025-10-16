@@ -2,7 +2,7 @@ package client;
 
 public class Add { 
   
-  public int plus(int a, int b) {
+  public int newplus(int a, int b) {
       return a*b;
   }
 
