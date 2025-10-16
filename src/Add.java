@@ -1,5 +1,9 @@
 public class Add { 
-  public int newplus(int a, int b) {
-    return a+b;
+  public int plus(int a, int b) {
+    if(a<5){
+      return a+b;
+    }else{
+      return a*b;
+    }
   }
 }
