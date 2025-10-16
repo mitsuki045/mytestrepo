@@ -1,3 +1,5 @@
+package com.example;
+
 public class MyClass {
     
     protected int minuss(int a, int y){
