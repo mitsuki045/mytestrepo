@@ -1,6 +1,6 @@
 public class MyClass {
     
-    protected int minusss(int a, int y){
+    protected int minuss(int a, int y){
         return a-y;
     }
 }
