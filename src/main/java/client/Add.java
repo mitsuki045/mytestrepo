@@ -3,7 +3,7 @@ package client;
 public class Add { 
   
   
-  public int aaaaaad(int a, int b){
+  public int bbbbbbbd(int a, int b){
       return a-b;   
   }
   
