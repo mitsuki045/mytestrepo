@@ -1,6 +1,6 @@
 package client;
 
-public class MyClass {
+public class My {
     
     protected int newminuss(int a, int y){
         return a-y;
