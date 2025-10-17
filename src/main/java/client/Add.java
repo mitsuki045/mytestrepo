@@ -7,7 +7,7 @@ public class Add {
       return a-b;   
   }
   
-  protected int minus(int a, int b){
+  public int minus(int a, int b){
       return a-b;   
   }
 
