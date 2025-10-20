@@ -3,7 +3,7 @@ package client;
 public class And { 
 
   
-  protected int add(int a, int b){
+  protected int newadd(int a, int b){
       return a-b;   
   }
   
