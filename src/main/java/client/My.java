@@ -1,7 +1,8 @@
 package client;
 
 public class My {
-    
+
+    int MAX=100;
     protected int newminuss(int a, int y){
         return a-y;
     }
