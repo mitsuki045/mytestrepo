@@ -1,6 +1,6 @@
 package client;
 
-public class Sad { 
+public class And { 
 
   
   public int add(int a, int b, int c){
