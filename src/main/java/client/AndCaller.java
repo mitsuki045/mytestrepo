@@ -21,3 +21,4 @@ public class AndCaller {
             System.out.println("ループ呼び出し " + i + ": add(" + a + "," + b + "," + c + ") = " + res);
         }
     }
+}
