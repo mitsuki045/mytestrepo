@@ -1,6 +1,6 @@
 package client;
 
-public class And { 
+public static class And { 
 
   
   public int add(int a, int b, int c){
