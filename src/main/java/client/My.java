@@ -6,7 +6,7 @@ public class My {
         return a-y;
     }
 
-    public int plus(int a, int b) {
+    public int newplus(int a, int b) {
       return a*b;
   }
     public static int minus(int a, int b){
