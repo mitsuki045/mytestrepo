@@ -1,6 +1,6 @@
 package client;
 
-public static class AndCaller {
+public class AndCaller {
 
     public void main(String[] args) {
         // Andクラスのインスタンスを生成
