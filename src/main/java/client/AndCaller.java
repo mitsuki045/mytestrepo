@@ -2,7 +2,7 @@ package client;
 
 public class AndCaller {
 
-    public static void main(String[] args) {
+    public void main(String[] args) {
         // Andクラスのインスタンスを生成
         And and = new And();
 
