@@ -6,4 +6,9 @@ public class AndCaller {
         return a+b;
     }
 
+    protected int newminuss(int a, int y){
+        return a-y;
+    }
+
+
 }
