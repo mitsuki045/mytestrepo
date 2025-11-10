@@ -2,7 +2,7 @@ package client;
 
 public class AndCaller {
 
-    public static int tekito(int a, int b){
+    public int tekito(int a, int b){
         return a+b;
     }
 
