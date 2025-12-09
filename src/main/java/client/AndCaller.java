@@ -2,7 +2,11 @@ package client;
 
 public class AndCaller {
 
-    public static int minuss(int a, int y){
+    public int minuss(int a, int y){
+        return a-y;
+    }
+
+    public int nantonaku(int a, int y){
         return a-y;
     }
 
