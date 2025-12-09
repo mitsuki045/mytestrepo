@@ -2,7 +2,7 @@ package client;
 
 public class AndCaller {
 
-    public int minuss(int a, int y){
+    protected int minuss(int a, int y){
         return a-y;
     }
 
