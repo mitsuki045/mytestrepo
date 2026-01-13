@@ -1,4 +1,4 @@
-package client;
+package library;
 
 public class And { 
   public int add(int a, int b, int c){
