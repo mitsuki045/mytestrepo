@@ -6,9 +6,6 @@ public class AndCaller {
         return a-y;
     }
 
-    public int nantonaku(int a, int y){
-        return a-y;
-    }
 
 
 }

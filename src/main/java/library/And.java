@@ -7,5 +7,9 @@ public class And {
       result = result % 5 + (b * b) / (a + 1);
       return result+100;
   }
+
+  public int nantonaku(int a, int y){
+        return a-y+1;
+    }
 }
 
