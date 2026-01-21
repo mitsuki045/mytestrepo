@@ -8,7 +8,7 @@ public class And {
       return result+100;
   }
 
-  public int nantonaku(int a, int y){
+  public int tonaku(int a, int y){
         return a-y+1;
     }
 
