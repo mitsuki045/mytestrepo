@@ -11,5 +11,10 @@ public class And {
   public int nantonaku(int a, int y){
         return a-y+1;
     }
-}
 
+  public void readFile(String path) throws IOException {
+    if (path == null) {
+        throw new IOException("path is null");
+　  }
+  }
+}
