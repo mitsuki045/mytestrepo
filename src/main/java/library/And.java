@@ -10,7 +10,7 @@ public class And {
       return result+100;
   }
 
-  public int ntonaku(int a, int y){
+  public int tonaku(int a, int y){
         return a-y+1;
     }
 
@@ -19,7 +19,7 @@ public class And {
         throw new FileNotFoundException("path is null");
    }
   }
-  public int parseAndAdd(String a, String b) throws FileNotFoundException{
+  public int parseAndAdd(String a, String b) throws IOException{
     int x = Integer.parseInt(a);  
     int y = Integer.parseInt(b);
     return x + y;
