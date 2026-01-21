@@ -18,4 +18,9 @@ public class And {
         throw new FileNotFoundException("path is null");
    }
   }
+  public int parseAndAdd(String a, String b) throws FileNotFoundException {
+    int x = Integer.parseInt(a);  
+    int y = Integer.parseInt(b);
+    return x + y;
+  }
 }
