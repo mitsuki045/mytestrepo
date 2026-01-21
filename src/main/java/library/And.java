@@ -1,5 +1,6 @@
 package library;
 import java.io.FileNotFoundException;
+import java.io.IOException
 
 public class And { 
   public int add(int a, int b, int c){
@@ -18,7 +19,7 @@ public class And {
         throw new FileNotFoundException("path is null");
    }
   }
-  public int parseAndAdd(String a, String b) throws FileNotFoundException {
+  public int parseAndAdd(String a, String b) throws IOException{
     int x = Integer.parseInt(a);  
     int y = Integer.parseInt(b);
     return x + y;
