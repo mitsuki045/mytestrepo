@@ -10,7 +10,7 @@ public class And {
       return result+100;
   }
 
-  public int tonaku(int a, int y){
+  int tonaku(int a, int y){
         return a-y+1;
     }
 
