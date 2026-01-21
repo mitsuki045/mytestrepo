@@ -1,6 +1,6 @@
 package library;
 import java.io.FileNotFoundException;
-import java.io.IOException
+import java.io.IOException;
 
 public class And { 
   public int add(int a, int b, int c){
