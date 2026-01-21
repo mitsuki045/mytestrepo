@@ -12,9 +12,9 @@ public class And {
         return a-y+1;
     }
 
-  public void readFile(String path) throws IOException {
+  public void readFile(String path) throws FileNotFoundException {
     if (path == null) {
-        throw new IOException("path is null");
+        throw new FileNotFoundException("path is null");
 　  }
   }
 }
